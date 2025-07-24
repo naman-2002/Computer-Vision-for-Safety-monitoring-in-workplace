@@ -1,4 +1,21 @@
-streamlit
-pandas
-scikit-learn
-pickle5
+# Core ML libraries
+tensorflow>=2.10
+keras>=2.10
+scikit-learn>=1.1.0
+numpy>=1.21
+
+# Computer vision
+opencv-python>=4.8.0
+Pillow>=9.0.0
+ultralytics>=8.0.0  # for YOLOv8
+
+# Audio
+playsound==1.2.2  # stable cross-platform version
+
+# Visualization
+matplotlib>=3.5
+seaborn>=0.11
+plotly>=5.10
+
+# Data handling
+pandas>=1.3
